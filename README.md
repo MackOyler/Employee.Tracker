@@ -59,19 +59,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Screenshot
 ![Command Line](./assets/images/command_line.png)
 
-## Video
-A link to the [Video](https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j):
-```
-https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
-```
 
 ## Link
-A link to the [code](https://github.com/jgarcia45/employee-tracker):
-```
-https://github.com/jgarcia45/employee-tracker
-```
+
 
 ## License
-  Copyright (c) Juan Garcia. All rights reserved.
+  Copyright (c) Mack Oyler. All rights reserved.
   
   Licensed under the [MIT](LICENSE) license.
